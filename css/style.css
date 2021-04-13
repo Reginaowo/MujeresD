@@ -1,0 +1,68 @@
+	h2{
+		color: lightblue;
+		font-size: 35px;
+		text-align: center;
+		font-family: helvetica;
+	}
+	h1{
+		color: gray; 
+		text-align: center; 
+		font-size: 45px;
+		padding: 20px; 
+		padding-bottom: 20px; 
+		border-bottom: 3px lightpink solid; 
+		margin: 30px;	
+		font-family: helvetica;	
+	}
+
+	.parrafo{
+		text-align: justify; 
+		color: gray; 
+		font-family: helvetica;
+		font-size: 18px;
+		
+	}
+
+
+	.caja{
+		color: lightgreen; 
+		text-align: justify; 
+		padding: 5px; 
+		padding-bottom: 5px; 
+		margin: 40px;
+	}
+
+	.tabla{
+		color: gray; 
+		text-align: justify; 
+		padding: 5px; 
+		padding-bottom: 5px; 
+		border-bottom: 3px lightpink solid; 
+		margin: 30px;
+		font-family: helvetica;
+		font-size: 18px;
+		}
+
+	.img{
+		margin: 20px; 
+		padding: 20px; 
+		width: 350px;
+	}	
+
+	.contenedor{
+		width: 100%;
+		padding-right: 15px;
+		padding-left: 15px;
+		padding-top: 10px;
+	}
+
+	#listas{
+		background-color: orange;
+		display:flex;
+	}
+
+	.seccion{
+		text-align: center;
+		background-color: orange;
+
+	}
