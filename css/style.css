@@ -66,3 +66,28 @@
 		background-color: orange;
 
 	}
+
+	.div-padre{
+		display: flex;
+		text-align: center;
+	}
+
+	.div-md{
+		width: 50%;
+		text-align: center;
+		padding-left: 70px;
+	}
+
+	.footer{
+		background-color: #FFD5EC;
+	}
+
+	.texto-footer{
+		padding: 10px;
+		font-size: 15px;
+		text-align: center;
+	}
+
+	body{
+		margin: 0px;
+	}
